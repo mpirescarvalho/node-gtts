@@ -45,6 +45,7 @@ const LANGUAGES = {
   'pl': 'Polish',
   'pt': 'Portuguese',
   'pt-br': 'Portuguese (Brazil)',
+  'pt-pt': 'Portuguese (Portugal)',
   'ro': 'Romanian',
   'ru': 'Russian',
   'sr': 'Serbian',
